@@ -1,0 +1,37 @@
+<h2>About Me</h2>
+<p>I'm a self-taught programmer focusing on full stack web development.</p>
+
+<h2>Languages</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Ruby</li>
+  <li>SQL</li>
+</ul>
+
+<h2>Frameworks and Tools</h2>
+<ul>
+  <li>Ruby on Rails</li>
+  <li>RSpec</li>
+  <li>Heroku</li>
+  <li>React</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
+  <li>Bulma</li>
+</ul>
+
+<h2>If you want to reach me:</h2>
+<ul>
+  <li><a href = "mailto: rex.smith17@gamil.com">Send Email</a></li>
+  <li><a href = "https://www.linkedin.com/in/rex-smith/">Connect on LinkedIn</a></li>
+</ul>
+
+
+
+
+- 👋 Hi, I’m @rex-smith
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
