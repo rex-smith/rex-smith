@@ -23,6 +23,6 @@
 
 <h2>If you want to reach me:</h2>
 <ul>
-  <li><a href = "mailto: rex.smith17@gamil.com">Send Email</a></li>
+  <li><a href = "mailto: rex.smith17@gmail.com">Send Email</a></li>
   <li><a href = "https://www.linkedin.com/in/rex-smith/">Connect on LinkedIn</a></li>
 </ul>
