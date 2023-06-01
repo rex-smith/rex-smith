@@ -6,7 +6,9 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>Ruby</li>
+  <li>Python</li>
   <li>SQL</li>
 </ul>
 
@@ -18,7 +20,7 @@
   <li>React</li>
   <li>Bootstrap</li>
   <li>Tailwind</li>
-  <li>Bulma</li>
+  <li>NextJS</li>
 </ul>
 
 <h2>If you want to reach me:</h2>
