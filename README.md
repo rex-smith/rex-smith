@@ -1,7 +1,7 @@
 # Hi :wave:
 
 I'm Rex Smith, I'm a (relatively) new fullstack engineer interested in continuing to learn by doing.
-- 🔭 I'm currently working on [@Doorskor](https://github.com/doorskor)
+- 🔭 I'm currently working on [@Roamseat](https://github.com/roamseat) and [@Doorskor](https://github.com/doorskor)
 
 ## Get In Touch
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rex-smith)
@@ -11,10 +11,10 @@ I'm Rex Smith, I'm a (relatively) new fullstack engineer interested in continuin
 [![My Skills](https://skillicons.dev/icons?i=ts,js,ruby,py)](https://skillicons.dev)
 
 ## Current Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=nextjs,react,cypress,rails)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=nextjs,react,cypress,rails,tailwind,)](https://skillicons.dev)
 
 ## Database Familiarity
-[![My Frameworks](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
 
 ## Cloud Familiarity
 [![My Cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
@@ -23,4 +23,4 @@ I'm Rex Smith, I'm a (relatively) new fullstack engineer interested in continuin
 [![My Design Tools](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
 
 ## What I'm Currently Learning / Improving On
-[![Improving On](https://skillicons.dev/icons?i=py,supabase,tailwind)](https://skillicons.dev)
+[![Improving On](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
